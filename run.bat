@@ -71,7 +71,7 @@ if !ERRORLEVEL! EQU 0 (
 )
 
 
-echo ERROR: 未找到 Python，请安装 Python 3.9+
+echo ERROR: 未找到 Python，请安装 Python 3.12+
 echo        下载地址: https://www.python.org/downloads/
 pause
 exit /b 1

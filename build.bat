@@ -37,7 +37,7 @@ for %%p in (python python3 py) do (
     )
 )
 
-echo  [错误] 未找到 Python，请先安装 Python 3.10+
+echo  [错误] 未找到 Python，请先安装 Python 3.12+
 echo        下载地址: https://www.python.org/downloads/
 pause
 exit /b 1
